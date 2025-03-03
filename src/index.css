@@ -1,0 +1,200 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Remove these conflicting styles */
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+
+.img-hero{
+  object-fit: cover !important;
+}
+/* Keep your custom classes */
+.imgAnal{
+  margin: 0 auto; 
+  width: 100%;
+  text-align: center;
+  border: 2px solid black;
+}
+
+@keyframes float {
+  0% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+.animate-float {
+  animation: float 6s ease-in-out infinite;
+}
+
+/* Add smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+
+.pdf-canvas{
+  width: 500px;
+}
+
+
+.m-w-full{
+  width: 500px;
+}
+
+.ai-img{
+  height: 20px;
+  position: relative;
+  top: 3px;
+  right: -10px;
+}
+
+button:hover{
+  cursor: pointer;
+}
+
+.recently-funded-startups {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.recently-funded-startups h2 {
+    margin-bottom: 20px;
+}
+
+.startup-item {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #fff;
+    transition: 300ms ease-in all;
+}
+
+.startup-box{
+  transition: 150ms ease-in all;
+}
+.startup-box:hover{
+  cursor: pointer;
+  box-shadow: 0x 20px 10px rgba(0, 0, 0, 0.2);
+  transform: scale(1.02);
+}
+
+.startup-item h3 {
+    margin: 0;
+}
+
+.startup-item p {
+    margin: 5px 0;
+}
+
+.industry-box{
+  display: flex;
+  gap: 4px;
+  margin-top: .5em;
+}
+
+.industry-item{
+
+  font-size: 10px;
+  padding: 3px 10px;
+  border-radius: 200px;
+  background-color: lemonchiffon;
+  color: black;
+  font-weight: 600;
+}
+
+.startup-item__cta{
+display: flex;
+justify-content: space-between;
+margin-top: 1em;
+align-items: center;
+}
+
+.startup-item-btn{
+  padding: 5px 16px;
+  border: solid #000111 1px;
+  border-radius: 8px;
+  color: white;
+  background-color: #000111;
+  font-weight: 400;
+
+}
+.industry-0 { background-color: #f9f9f9; } /* Very light gray */
+.industry-1 { background-color: #e6f7ff; } /* Light cyan */
+.industry-2 { background-color: #e8f5e9; } /* Light green */
+.industry-3 { background-color: #fff3e0; } /* Light orange */
+.industry-4 { background-color: #fce4ec; } /* Light pink */
+.industry-5 { background-color: #f3e5f5; } /* Light purple */
+.industry-6 { background-color: #e1f5fe; } /* Light blue */
+.industry-7 { background-color: #fff8e1; } /* Light yellow */
+.industry-8 { background-color: #e8f8f5; } /* Light teal */
+.industry-9 { background-color: #f8f9fa; } /* Light gray */
+.industry-10 { background-color: #e3f2fd; } /* Light blue */
+
+.name-logo{
+  display: flex;
+  align-items: center;
+  gap: .5em ;
+  margin-bottom: 1em;
+  
+}
+
+.ai-insights-btn{
+  padding: 4px 20px;
+  border: 2px solid black;
+  margin: 1em 0;
+  background-color: transparent;
+  border-radius: 200px;
+  width: fit-content;
+  display: flex;
+  transition: 200ms ease-in all;
+  opacity: .6;
+}
+
+.ai-insights-btn:hover{
+  /* box-shadow: 0px 8px 9px  rgba(0, 0, 0, 0.2); */
+  opacity: 1;
+
+  background-color: #000111;
+  color: white;
+}
+
+.ai-insights-btn>img{
+  position: relative;
+  top: 3px;
+  left: 5px;
+  
+}
+
+.name-logo>img{
+  position: relative;
+  top: 2px;
+  object-fit: cover;
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+.funding-box{
+  border-top: gray 1px ;
+}
+
+.line{
+  width: 99%;
+  height: 1px;
+  margin: .8em auto;
+  border-radius: 20px;
+  background-color: lightgray;
+  display: block;
+}

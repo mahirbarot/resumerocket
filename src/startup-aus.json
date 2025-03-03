@@ -1,0 +1,885 @@
+[
+    {
+      "Name": "MyGigsters",
+      "Website": "www.mygigsters.com.au",
+      "Industry": "FinTech, Finance",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$1,100,000",
+      "Funding Type": "Seed",
+      "Last Funding Date": "Feb 2025"
+    },
+    {
+      "Name": "Spoony",
+      "Website": "spoony.app",
+      "Industry": "Food and Beverage, Hospitality",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$1,000,000",
+      "Funding Type": "Pre-Seed",
+      "Last Funding Date": "Feb 2025"
+    },
+    {
+      "Name": "Harrison.ai",
+      "Website": "www.harrison.ai",
+      "Industry": "Healthcare, Artificial Intelligence",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$19,963,840",
+      "Funding Type": "Series C",
+      "Last Funding Date": "Feb 2025"
+    },
+    {
+      "Name": "Diag-Nose.io",
+      "Website": "www.diag-nose.io",
+      "Industry": "Healthcare, Artificial Intelligence",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$1,963,001",
+      "Funding Type": "Seed",
+      "Last Funding Date": "Feb 2025"
+    },
+    {
+      "Name": "Qsic",
+      "Website": "www.getqsic.com",
+      "Industry": "Retail",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$40,000,000",
+      "Funding Type": "Series B",
+      "Last Funding Date": "Feb 2025"
+    },
+    {
+      "Name": "Lorikeet",
+      "Website": "www.lorikeetcx.ai",
+      "Industry": "Artificial Intelligence",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$9,000,000",
+      "Funding Type": "Seed",
+      "Last Funding Date": "Feb 2025"
+    },
+    {
+      "Name": "DyFlex Solutions",
+      "Website": "www.dyflex.com.au",
+      "Industry": "Information Technology, Cloud Computing",
+      "Country": "Australia",
+      "Funding Amount (USD)": "",
+      "Funding Type": "Private Equity",
+      "Last Funding Date": "Feb 2025"
+    },
+    {
+      "Name": "AdvanCell",
+      "Website": "advancell.com.au",
+      "Industry": "Pharmaceuticals, Healthcare",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$112,000,000",
+      "Funding Type": "Series C",
+      "Last Funding Date": "Feb 2025"
+    },
+    {
+      "Name": "Minikai",
+      "Website": "www.minikai.com",
+      "Industry": "Automotive",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$1,566,932",
+      "Funding Type": "Seed",
+      "Last Funding Date": "Feb 2025"
+    },
+    {
+      "Name": "Factor House",
+      "Website": "factorhouse.io",
+      "Industry": "Finance, FinTech",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$5,000,000",
+      "Funding Type": "Seed",
+      "Last Funding Date": "Feb 2025"
+    },
+    {
+      "Name": "Pearler",
+      "Website": "www.pearler.com",
+      "Industry": "Finance, Investing",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$1,886,456",
+      "Funding Type": "Seed",
+      "Last Funding Date": "Feb 2025"
+    },
+    {
+      "Name": "Harrison.ai",
+      "Website": "www.harrison.ai",
+      "Industry": "Healthcare, Artificial Intelligence",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$112,000,000",
+      "Funding Type": "Series C",
+      "Last Funding Date": "Feb 2025"
+    },
+    {
+      "Name": "Ena Respiratory",
+      "Website": "enarespiratory.com",
+      "Industry": "Healthcare, Biotechnology",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$5,000,000",
+      "Funding Type": "Venture - Series Unknown",
+      "Last Funding Date": "Feb 2025"
+    },
+    {
+      "Name": "upcover",
+      "Website": "www.upcover.com",
+      "Industry": "Insurance",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$11,000,000",
+      "Funding Type": "Series A",
+      "Last Funding Date": "Feb 2025"
+    },
+    {
+      "Name": "MTMS Network",
+      "Website": "mtms.live",
+      "Industry": "Media",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$1,000,000",
+      "Funding Type": "Seed",
+      "Last Funding Date": "Feb 2025"
+    },
+    {
+      "Name": "Shopfront",
+      "Website": "shopfrontapp.co",
+      "Industry": "Mobile",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$800,000",
+      "Funding Type": "Pre-Seed",
+      "Last Funding Date": "Feb 2025"
+    },
+    {
+      "Name": "Auric Essentials",
+      "Website": "www.auricnow.com",
+      "Industry": "Wellness",
+      "Country": "Australia",
+      "Funding Amount (USD)": "",
+      "Funding Type": "Pre-Seed",
+      "Last Funding Date": "Feb 2025"
+    },
+    {
+      "Name": "splose",
+      "Website": "splose.com",
+      "Industry": "Artificial Intelligence, Cloud Computing",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$3,182,850",
+      "Funding Type": "Venture - Series Unknown",
+      "Last Funding Date": "Feb 2025"
+    },
+    {
+      "Name": "PropHero",
+      "Website": "prophero.com",
+      "Industry": "Property Management",
+      "Country": "Australia",
+      "Funding Amount (USD)": "",
+      "Funding Type": "Series A",
+      "Last Funding Date": "Feb 2025"
+    },
+    {
+      "Name": "MyPass Global",
+      "Website": "mypassglobal.com",
+      "Industry": "Travel",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$4,774,275",
+      "Funding Type": "Series A",
+      "Last Funding Date": "Feb 2025"
+    },
+    {
+      "Name": "ParkBooker",
+      "Website": "parkbooker.com",
+      "Industry": "Travel",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$600,000",
+      "Funding Type": "Pre-Seed",
+      "Last Funding Date": "Feb 2025"
+    },
+    {
+      "Name": "Zkcandy",
+      "Website": "www.zkcandy.io",
+      "Industry": "Blockchain",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$4,000,000",
+      "Funding Type": "Seed",
+      "Last Funding Date": "Jan 2025"
+    },
+    {
+      "Name": "Reshop",
+      "Website": "www.reshop.com",
+      "Industry": "E-commerce",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$17,000,000",
+      "Funding Type": "Venture - Series Unknown",
+      "Last Funding Date": "Jan 2025"
+    },
+    {
+      "Name": "ElectraLith",
+      "Website": "www.electralith.com",
+      "Industry": "Energy",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$17,073,534",
+      "Funding Type": "Series A",
+      "Last Funding Date": "Jan 2025"
+    },
+    {
+      "Name": "EMM",
+      "Website": "www.emmconsulting.com.au",
+      "Industry": "Environment, Professional Services",
+      "Country": "Australia",
+      "Funding Amount (USD)": "",
+      "Funding Type": "Private Equity",
+      "Last Funding Date": "Jan 2025"
+    },
+    {
+      "Name": "Convergence Medical Robotics",
+      "Website": "www.convergenceortho.com",
+      "Industry": "Healthcare",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$5,000,000",
+      "Funding Type": "Series A",
+      "Last Funding Date": "Jan 2025"
+    },
+    {
+      "Name": "Sayamigo.ai",
+      "Website": "sayamigo.ai",
+      "Industry": "Artificial Intelligence, Data",
+      "Country": "Australia",
+      "Funding Amount (USD)": "",
+      "Funding Type": "Pre-Seed",
+      "Last Funding Date": "Dec 2024"
+    },
+    {
+      "Name": "Visibuild",
+      "Website": "visibuild.com.au",
+      "Industry": "Construction",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$4,279,592",
+      "Funding Type": "Seed",
+      "Last Funding Date": "Dec 2024"
+    },
+    {
+      "Name": "MGA Thermal",
+      "Website": "mgathermal.com",
+      "Industry": "Energy",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$2,500,000",
+      "Funding Type": "Series B",
+      "Last Funding Date": "Dec 2024"
+    },
+    {
+      "Name": "Liven",
+      "Website": "www.liven.love",
+      "Industry": "Food and Beverage",
+      "Country": "Australia",
+      "Funding Amount (USD)": "",
+      "Funding Type": "Venture - Series Unknown",
+      "Last Funding Date": "Dec 2024"
+    },
+    {
+      "Name": "My Mirror",
+      "Website": "www.mymirror.com.au",
+      "Industry": "Healthcare, Artificial Intelligence",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$4,000,000",
+      "Funding Type": "Seed",
+      "Last Funding Date": "Dec 2024"
+    },
+    {
+      "Name": "TALY",
+      "Website": "taly.com.au",
+      "Industry": "Real Estate, Property Management",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$500,000",
+      "Funding Type": "Pre-Seed",
+      "Last Funding Date": "Dec 2024"
+    },
+    {
+      "Name": "Quantum Brilliance",
+      "Website": "quantumbrilliance.com",
+      "Industry": "Agriculture",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$30,000,000",
+      "Funding Type": "Series A",
+      "Last Funding Date": "Dec 2024"
+    },
+    {
+      "Name": "Birchal",
+      "Website": "birchal.com",
+      "Industry": "Agriculture, Robotics",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$1,270,592",
+      "Funding Type": "Equity Crowdfunding",
+      "Last Funding Date": "Dec 2024"
+    },
+    {
+      "Name": "Fleet Space Technologies",
+      "Website": "fleetspace.com",
+      "Industry": "Aviation",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$100,000,000",
+      "Funding Type": "Series D",
+      "Last Funding Date": "Dec 2024"
+    },
+    {
+      "Name": "Provenioai",
+      "Website": "provenio.ai",
+      "Industry": "Cloud Computing",
+      "Country": "Australia",
+      "Funding Amount (USD)": "",
+      "Funding Type": "Seed",
+      "Last Funding Date": "Dec 2024"
+    },
+    {
+      "Name": "Conry Tech",
+      "Website": "www.conrytech.com",
+      "Industry": "Energy",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$1,600,000",
+      "Funding Type": "Pre-Seed",
+      "Last Funding Date": "Dec 2024"
+    },
+    {
+      "Name": "Askable",
+      "Website": "www.askable.com",
+      "Industry": "Fashion",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$22,000,000",
+      "Funding Type": "Series A",
+      "Last Funding Date": "Dec 2024"
+    },
+    {
+      "Name": "Terria",
+      "Website": "terria.io",
+      "Industry": "Healthcare, Electronics",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$3,000,000",
+      "Funding Type": "Seed",
+      "Last Funding Date": "Dec 2024"
+    },
+    {
+      "Name": "GoodWork.ai",
+      "Website": "www.goodwork.ai",
+      "Industry": "Virtual Reality",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$4,000,000",
+      "Funding Type": "Seed",
+      "Last Funding Date": "Dec 2024"
+    },
+    {
+      "Name": "JET Charge",
+      "Website": "www.lightbringer.com",
+      "Industry": "Artificial Intelligence, Analytics",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$44,931,311",
+      "Funding Type": "Series C",
+      "Last Funding Date": "Dec 2024"
+    },
+    {
+      "Name": "Myriota",
+      "Website": "myriota.com",
+      "Industry": "Marketing, Analytics, Data",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$50,000,000",
+      "Funding Type": "Venture - Series Unknown",
+      "Last Funding Date": "Dec 2024"
+    },
+    {
+      "Name": "IDA",
+      "Website": "generatebiomedicines.com",
+      "Industry": "Real Estate",
+      "Country": "Australia",
+      "Funding Amount (USD)": "",
+      "Funding Type": "Venture - Series Unknown",
+      "Last Funding Date": "Dec 2024"
+    },
+    {
+      "Name": "Sitemate",
+      "Website": "sitemate.com",
+      "Industry": "Cloud Computing",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$18,000,000",
+      "Funding Type": "Series A",
+      "Last Funding Date": "Dec 2024"
+    },
+    {
+      "Name": "WearOptimo",
+      "Website": "www.wearoptimo.com",
+      "Industry": "Healthcare, Electronics",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$8,000,000",
+      "Funding Type": "Venture - Series Unknown",
+      "Last Funding Date": "Dec 2024"
+    },
+    {
+      "Name": "PMY Group",
+      "Website": "www.pmygroup.com.au",
+      "Industry": "B2B Software",
+      "Country": "Australia",
+      "Funding Amount (USD)": "",
+      "Funding Type": "Private Equity",
+      "Last Funding Date": "Nov 2024"
+    },
+    {
+      "Name": "Neara",
+      "Website": "www.neara.com",
+      "Industry": "Cloud Computing",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$31,000,000",
+      "Funding Type": "Series C",
+      "Last Funding Date": "Nov 2024"
+    },
+    {
+      "Name": "Earthodic",
+      "Website": "www.earthodic.com",
+      "Industry": "Materials",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$3,944,926",
+      "Funding Type": "Seed",
+      "Last Funding Date": "Nov 2024"
+    },
+    {
+      "Name": "Provenioai",
+      "Website": "provenio.ai",
+      "Industry": "Artificial Intelligence",
+      "Country": "Australia",
+      "Funding Amount (USD)": "",
+      "Funding Type": "Seed",
+      "Last Funding Date": "Nov 2024"
+    },
+    {
+      "Name": "ViaPay",
+      "Website": "viapay.ai",
+      "Industry": "Artificial Intelligence, Automotive",
+      "Country": "Australia",
+      "Funding Amount (USD)": "",
+      "Funding Type": "Pre-Seed",
+      "Last Funding Date": "Nov 2024"
+    },
+    {
+      "Name": "Synergy",
+      "Website": "totalsynergy.com",
+      "Industry": "Cloud Computing",
+      "Country": "Australia",
+      "Funding Amount (USD)": "",
+      "Funding Type": "Private Equity",
+      "Last Funding Date": "Nov 2024"
+    },
+    {
+      "Name": "Auric Essentials",
+      "Website": "www.auricnow.com",
+      "Industry": "Wellness",
+      "Country": "Australia",
+      "Funding Amount (USD)": "",
+      "Funding Type": "Pre-Seed",
+      "Last Funding Date": "Nov 2024"
+    },
+    {
+      "Name": "Viewa",
+      "Website": "www.viewa.com",
+      "Industry": "",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$300,000",
+      "Funding Type": "Pre-Seed",
+      "Last Funding Date": "Nov 2024"
+    },
+    {
+      "Name": "Ajust",
+      "Website": "www.ajust.com.au",
+      "Industry": "Healthcare",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$2,000,000",
+      "Funding Type": "Seed",
+      "Last Funding Date": "Nov 2024"
+    },
+    {
+      "Name": "Fresho",
+      "Website": "fresho.com",
+      "Industry": "Logistics",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$17,000,000",
+      "Funding Type": "Series B",
+      "Last Funding Date": "Nov 2024"
+    },
+    {
+      "Name": "MapAI",
+      "Website": "mapai.net",
+      "Industry": "Logistics",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$1,300,000",
+      "Funding Type": "Seed",
+      "Last Funding Date": "Nov 2024"
+    },
+    {
+      "Name": "1Wheel",
+      "Website": "1wheel.com.au",
+      "Industry": "Transportation, Automotive",
+      "Country": "Australia",
+      "Funding Amount (USD)": "",
+      "Funding Type": "Pre-Seed",
+      "Last Funding Date": "Nov 2024"
+    },
+    {
+      "Name": "Lorikeet",
+      "Website": "www.lorikeetcx.ai",
+      "Industry": "Artificial Intelligence",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$5,000,000",
+      "Funding Type": "Seed",
+      "Last Funding Date": "Oct 2024"
+    },
+    {
+      "Name": "Ideally",
+      "Website": "www.goideally.com",
+      "Industry": "Cloud Computing",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$3,796,811",
+      "Funding Type": "Seed",
+      "Last Funding Date": "Oct 2024"
+    },
+    {
+      "Name": "AZ NGA",
+      "Website": "www.aznga.com",
+      "Industry": "Cyber Security",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$165,534,023",
+      "Funding Type": "Private Equity",
+      "Last Funding Date": "Oct 2024"
+    },
+    {
+      "Name": "Cartherics",
+      "Website": "cartherics.com",
+      "Industry": "Healthcare, Biotechnology",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$10,397,849",
+      "Funding Type": "Venture - Series Unknown",
+      "Last Funding Date": "Oct 2024"
+    },
+    {
+      "Name": "ExploreTech",
+      "Website": "www.exploretech.group",
+      "Industry": "Hospitality, Cloud Computing",
+      "Country": "Australia",
+      "Funding Amount (USD)": "",
+      "Funding Type": "Pre-Seed",
+      "Last Funding Date": "Oct 2024"
+    },
+    {
+      "Name": "Zitcha",
+      "Website": "www.zitcha.com",
+      "Industry": "",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$10,397,849",
+      "Funding Type": "Series A",
+      "Last Funding Date": "Oct 2024"
+    },
+    {
+      "Name": "Q-CTRL",
+      "Website": "q-ctrl.com",
+      "Industry": "Quantum Computing",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$59,000,000",
+      "Funding Type": "Series B",
+      "Last Funding Date": "Oct 2024"
+    },
+    {
+      "Name": "Green Gravity",
+      "Website": "greengravity.com",
+      "Industry": "",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$6,055,651",
+      "Funding Type": "Series A",
+      "Last Funding Date": "Oct 2024"
+    },
+    {
+      "Name": "Viridian Renewable Technology",
+      "Website": "www.viridianrenewable.tech",
+      "Industry": "Energy",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$1,672,739",
+      "Funding Type": "Venture - Series Unknown",
+      "Last Funding Date": "Oct 2024"
+    },
+    {
+      "Name": "Build Club",
+      "Website": "www.buildclub.ai",
+      "Industry": "Construction, Materials, Artificial Intelligence",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$1,210,633",
+      "Funding Type": "Pre-Seed",
+      "Last Funding Date": "Oct 2024"
+    },
+    {
+      "Name": "Lumachain",
+      "Website": "lumachain.io",
+      "Industry": "Logistics, Blockchain",
+      "Country": "Australia",
+      "Funding Amount (USD)": "",
+      "Funding Type": "Venture - Series Unknown",
+      "Last Funding Date": "Oct 2024"
+    },
+    {
+      "Name": "Axify.ai",
+      "Website": "axify.ai",
+      "Industry": "Analytics",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$1,000,000",
+      "Funding Type": "Seed",
+      "Last Funding Date": "Oct 2024"
+    },
+    {
+      "Name": "BuildPass",
+      "Website": "buildpass.com.au",
+      "Industry": "Construction, Cloud Computing",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$7,500,000",
+      "Funding Type": "Seed",
+      "Last Funding Date": "Oct 2024"
+    },
+    {
+      "Name": "Conflux Technology",
+      "Website": "www.confluxtechnology.com",
+      "Industry": "Blockchain",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$7,370,989",
+      "Funding Type": "Series B",
+      "Last Funding Date": "Oct 2024"
+    },
+    {
+      "Name": "Cropify",
+      "Website": "www.cropify.io",
+      "Industry": "Agriculture, Artificial Intelligence",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$2,000,000",
+      "Funding Type": "Venture - Series Unknown",
+      "Last Funding Date": "Sep 2024"
+    },
+    {
+      "Name": "Cognitivo",
+      "Website": "www.cognitivo.com.au",
+      "Industry": "Artificial Intelligence",
+      "Country": "Australia",
+      "Funding Amount (USD)": "",
+      "Funding Type": "Pre-Seed",
+      "Last Funding Date": "Sep 2024"
+    },
+    {
+      "Name": "Shift",
+      "Website": "www.shift.com.au",
+      "Industry": "Finance",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$23,714,167",
+      "Funding Type": "Series D",
+      "Last Funding Date": "Sep 2024"
+    },
+    {
+      "Name": "WhyHive",
+      "Website": "www.whyhive.com",
+      "Industry": "Marketing, Analytics",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$406,529",
+      "Funding Type": "Pre-Seed",
+      "Last Funding Date": "Sep 2024"
+    },
+    {
+      "Name": "Inform Ag",
+      "Website": "www.informag.com.au",
+      "Industry": "Media, Information Technology",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$4,746,928",
+      "Funding Type": "Series A",
+      "Last Funding Date": "Sep 2024"
+    },
+    {
+      "Name": "Tour Amigo",
+      "Website": "touramigo.com",
+      "Industry": "Travel",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$1,500,000",
+      "Funding Type": "Seed",
+      "Last Funding Date": "Sep 2024"
+    },
+    {
+      "Name": "Cognitivo",
+      "Website": "www.cognitivo.com.au",
+      "Industry": "Artificial Intelligence",
+      "Country": "Australia",
+      "Funding Amount (USD)": "",
+      "Funding Type": "Pre-Seed",
+      "Last Funding Date": "Sep 2024"
+    },
+    {
+      "Name": "Mazaal AI",
+      "Website": "mazaal.ai",
+      "Industry": "Artificial Intelligence",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$135,364",
+      "Funding Type": "Pre-Seed",
+      "Last Funding Date": "Sep 2024"
+    },
+    {
+      "Name": "AirTrunk",
+      "Website": "www.airtrunk.com",
+      "Industry": "Data",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$1,934,853,223",
+      "Funding Type": "Private Equity",
+      "Last Funding Date": "Sep 2024"
+    },
+    {
+      "Name": "Business Kitz",
+      "Website": "businesskitz.com.au",
+      "Industry": "Legal",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$3,300,000",
+      "Funding Type": "Pre-Seed",
+      "Last Funding Date": "Sep 2024"
+    },
+    {
+      "Name": "Algenie",
+      "Website": "www.algenie.com.au",
+      "Industry": "Artificial Intelligence, Retail",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$733,465",
+      "Funding Type": "Pre-Seed",
+      "Last Funding Date": "Sep 2024"
+    },
+    {
+      "Name": "Number 8 bio",
+      "Website": "www.number8.bio",
+      "Industry": "Biotechnology",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$4,667,504",
+      "Funding Type": "Seed",
+      "Last Funding Date": "Sep 2024"
+    },
+    {
+      "Name": "Allegro Energy",
+      "Website": "www.allegro.energy",
+      "Industry": "Energy",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$11,651,101",
+      "Funding Type": "Series A",
+      "Last Funding Date": "Sep 2024"
+    },
+    {
+      "Name": "SERENITAS",
+      "Website": "www.serenitas.com.au",
+      "Industry": "Healthcare, Artificial Intelligence",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$133,155,438",
+      "Funding Type": "Private Equity",
+      "Last Funding Date": "Sep 2024"
+    },
+    {
+      "Name": "Primary",
+      "Website": "www.primary.so",
+      "Industry": "B2B Software",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$3,500,000",
+      "Funding Type": "Seed",
+      "Last Funding Date": "Sep 2024"
+    },
+    {
+      "Name": "Drift Protocol",
+      "Website": "www.drift.trade",
+      "Industry": "Blockchain",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$25,000,000",
+      "Funding Type": "Series B",
+      "Last Funding Date": "Sep 2024"
+    },
+    {
+      "Name": "East Forged",
+      "Website": "eastforged.com",
+      "Industry": "Food and Beverage",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$1,500,000",
+      "Funding Type": "Venture - Series Unknown",
+      "Last Funding Date": "Sep 2024"
+    },
+    {
+      "Name": "Restoke",
+      "Website": "www.restoke.ai",
+      "Industry": "Artificial Intelligence",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$3,496,386",
+      "Funding Type": "Seed",
+      "Last Funding Date": "Sep 2024"
+    },
+    {
+      "Name": "InDebted",
+      "Website": "www.indebted.co",
+      "Industry": "FinTech, Finance",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$41,133,953",
+      "Funding Type": "Series C",
+      "Last Funding Date": "Sep 2024"
+    },
+    {
+      "Name": "Mary Technology",
+      "Website": "www.marytechnology.com",
+      "Industry": "Healthcare",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$1,350,000",
+      "Funding Type": "Pre-Seed",
+      "Last Funding Date": "Sep 2024"
+    },
+    {
+      "Name": "Neopharma Technologies",
+      "Website": "www.neopharmatechnologies.com",
+      "Industry": "Pharmaceuticals",
+      "Country": "Australia",
+      "Funding Amount (USD)": "",
+      "Funding Type": "Series A",
+      "Last Funding Date": "Sep 2024"
+    },
+    {
+      "Name": "Matilda Migration",
+      "Website": "matildamigration.com",
+      "Industry": "Professional Services",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$685,566",
+      "Funding Type": "Pre-Seed",
+      "Last Funding Date": "Sep 2024"
+    },
+    {
+      "Name": "Provenioai",
+      "Website": "provenio.ai",
+      "Industry": "Security",
+      "Country": "Australia",
+      "Funding Amount (USD)": "",
+      "Funding Type": "Seed",
+      "Last Funding Date": "Sep 2024"
+    },
+    {
+      "Name": "VALD",
+      "Website": "www.vald.com",
+      "Industry": "",
+      "Country": "Australia",
+      "Funding Amount (USD)": "",
+      "Funding Type": "Private Equity",
+      "Last Funding Date": "Sep 2024"
+    },
+    {
+      "Name": "ReciMe",
+      "Website": "www.recime.app",
+      "Industry": "Artificial Intelligence",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$997,473",
+      "Funding Type": "Seed",
+      "Last Funding Date": "Jul 2024"
+    },
+    {
+      "Name": "Redactive",
+      "Website": "redactive.ai",
+      "Industry": "Artificial Intelligence, Data",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$11,500,000",
+      "Funding Type": "Seed",
+      "Last Funding Date": "Jul 2024"
+    },
+    {
+      "Name": "DASH Technology",
+      "Website": "dash.com.au",
+      "Industry": "Automotive",
+      "Country": "Australia",
+      "Funding Amount (USD)": "$13,347,490",
+      "Funding Type": "Venture - Series Unknown",
+      "Last Funding Date": "Jul 2024"
+    }
+  ]
+  
